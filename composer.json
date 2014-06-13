@@ -1,0 +1,17 @@
+{
+  "name": "stackgrinder/shoestrap-3-extra-widget-areas",
+  "description": "Adds extra widget ares to the Shoestrap 3 theme.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stack Grinder",
+      "email": "admin@stackgrinder.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.12"
+  }
+}
